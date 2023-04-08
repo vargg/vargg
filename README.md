@@ -16,7 +16,7 @@ ___
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" height="40" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" height="40" alt="PostgreSQL" /></a>
 
-<a href="https://www.gnu.org/gnu/linux-and-gnu.html" target="_blank" rel="noreferrer"><img src="https://www.gnu.org/graphics/gnu-linux-logo-mini.svg" height="40" alt="GNU/Linux" /></a>
+<a href="https://www.gnu.org/gnu/linux-and-gnu.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU-Linux_cartouche.svg" height="40" alt="GNU/Linux" /></a>
 <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" height="40" alt="Slurm" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="40" alt="Docker" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" /></a>
